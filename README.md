@@ -88,7 +88,7 @@
 ## 💭 Quote I Live By
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=4000&pause=2000&color=8A63FF&center=true&vCenter=true&width=750&lines=%22The+expert+in+anything+was+once+a+beginner%22;%22who+refused+to+give+up.%22" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=4000&pause=100000&color=8A63FF&center=true&vCenter=true&width=750&repeat=false&lines=%22The+expert+in+anything+was+once+a+beginner+who+refused+to+give+up.%22" alt="Quote" />
 </p>
 
 ---
