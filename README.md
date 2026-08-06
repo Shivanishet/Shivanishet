@@ -75,13 +75,6 @@
 ---
 
 <!-- ==================== STREAK ==================== -->
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shivanishet&theme=radical&hide_border=true&background=0F0C29&ring=8A63FF&fire=8A63FF&currStreakLabel=8A63FF" alt="GitHub Streak Stats" />
-</p>
-
----
 
 <!-- ==================== QUOTE ==================== -->
 ## 💭 Quote I Live By
