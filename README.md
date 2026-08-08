@@ -1,5 +1,8 @@
 <!-- ==================== HEADER ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=250&section=header&text=Shivani%20Shet&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20Programmer&descAlignY=58&descSize=18"/>
+<a href="https://my-portfolio-git-main-s-projects-4b1e1451.vercel.app" target="_blank">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=250&section=header&text=Shivani%20Shet&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20Programmer&descAlignY=58&descSize=18"/>
+</a>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A63FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Enthusiast;Java+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
