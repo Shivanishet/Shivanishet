@@ -1,183 +1,95 @@
-<h1 align="center">
-  <a href="https://my-portfolio-git-main-s-projects-4b1e1451.vercel.app">
-    Shivani Shet
-  </a>
-</h1>
+<!-- ==================== HEADER ==================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=250&section=header&text=Shivani%20Shet&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20Programmer&descAlignY=58&descSize=18"/>
 
 <p align="center">
-  <strong>Full-Stack Developer | AI Enthusiast | Software Engineer</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A63FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Enthusiast;Java+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://my-portfolio-git-main-s-projects-4b1e1451.vercel.app">
-    🌐 Visit My Portfolio
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/shivani-shet-147a73339">
-    💼 LinkedIn
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/Shivanishet">
-    💻 GitHub
-  </a>
+  <a href="https://www.linkedin.com/in/shivanishet/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/shivanishet" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/BGqiuXWl1B/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:shivanishet035@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<br/>
 
+<!-- ==================== ABOUT ==================== -->
 ## 👩‍💻 About Me
+
+<img align="right" alt="Coding Girl" width="340" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
 - 💜 Passionate about building scalable web applications and AI-powered solutions
 - 🚀 Currently working on **AI-powered Full Stack projects**
 - 🌱 Learning **Advanced React, Node.js, System Design & AI**
 - 💻 Love creating projects that solve real-world problems
 - 📚 Solving **Data Structures & Algorithms** in **Java**
-- 🎓 Computer Science student at **B.M.S College of Engineering**
 - ⚡ Fun fact: coding is better with headphones 🎧 and good music
 
+<br clear="right"/>
+
 ---
 
+<!-- ==================== TECH STACK ==================== -->
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts" />
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
-
-### ⚙️ Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase" />
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### 🎨 3D & Animation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=threejs" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
+<!-- ==================== PROJECTS ==================== -->
 ## 🚀 Featured Projects
 
-### ✨ Voice Translator
-
-Real-time AI-powered voice translation application that enables users to record speech, translate it across languages, and generate translated audio.
-
-**Tech Stack:** React • FastAPI • Whisper • Gemini AI • Firebase • gTTS
-
-🔗 [View Repository](https://github.com/Shivanishet/voice-translator)
-
-🌐 [Live Demo](https://voice-translator-chi-silk.vercel.app/)
-
----
-
-### ✨ Student Complaint System
-
-A web-based platform designed to help students submit and track complaints while providing administrators with a streamlined system for managing and resolving issues.
-
-**Tech Stack:** React • Node.js • Express.js • MongoDB
-
-🔗 [View Repository](https://github.com/Shivanishet/Student-complaint)
-
-🌐 [Live Demo](https://student-complaint-ten.vercel.app/)
-
----
-
-### ✨ AI Image Generator
-
-An AI-powered application that generates images from text prompts using AI APIs.
-
-**Tech Stack:** React • JavaScript • AI APIs
-
-🔗 [View Repository](https://github.com/Shivanishet/image-generator)
-
-🌐 [Live Demo](https://image-generator-eight-omega.vercel.app/)
-
----
-
-## 🌐 My 3D Portfolio
-
-Want to see my projects and skills through an interactive 3D experience?
+- ✨ **[Voice Translator](https://github.com/Shivanishet/voice-translator)** — real-time voice translation across languages · [🔗 Live Demo](https://voice-translator-chi-silk.vercel.app/)
+- ✨ **[Student Complaint System](https://github.com/Shivanishet/Student-complaint)** — a platform for managing and resolving student complaints · [🔗 Live Demo](https://student-complaint-ten.vercel.app/)
+- ✨ **[AI Image Generator](https://github.com/Shivanishet/image-generator)** — generates images from text prompts using AI APIs · [🔗 Live Demo](https://image-generator-eight-omega.vercel.app/)
 
 <p align="center">
-  <a href="https://my-portfolio-git-main-s-projects-4b1e1451.vercel.app">
-    <img src="https://img.shields.io/badge/🚀_Explore_My_3D_Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://github.com/Shivanishet?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20More%20Projects-8A63FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🎓 Education
+<!-- ==================== STREAK ==================== -->
 
-**B.M.S College of Engineering, Bengaluru**
-
-Bachelor of Engineering — Computer Science
-
-**CGPA: 9.52 / 10**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivanishet&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanishet&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shivanishet&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://my-portfolio-git-main-s-projects-4b1e1451.vercel.app">
-    🌐 Portfolio
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/shivani-shet-147a73339">
-    💼 LinkedIn
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/Shivanishet">
-    💻 GitHub
-  </a>
-  &nbsp; • &nbsp;
-  <a href="mailto:shivanishet035@gmail.com">
-    📧 Email
-  </a>
-</p>
-
----
-
+<!-- ==================== QUOTE ==================== -->
 ## 💭 Quote I Live By
 
-> **"Build. Learn. Improve. Repeat."** 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=4000&pause=100000&color=8A63FF&center=true&vCenter=true&width=750&repeat=false&lines=%22The+expert+in+anything+was+once+a+beginner+who+refused+to+give+up.%22" alt="Quote" />
+</p>
 
 ---
 
+<!-- ==================== PROFILE VIEWS ==================== -->
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <img src="https://komarev.com/ghpvc/?username=shivanishet&label=Profile+Views&color=8A63FF&style=for-the-badge"/>
 </p>
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer"/>
