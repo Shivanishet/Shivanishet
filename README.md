@@ -1,7 +1,9 @@
 <!-- ==================== HEADER ==================== -->
-\<a href="[https://my-portfolio-git-main-s-projects-4b1e1451.vercel.app](https://my-portfolio-git-main-s-projects-4b1e1451.vercel.app)" target="\_blank">
-  \<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=250&section=header&text=Shivani%20Shet&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20Programmer&descAlignY=58&descSize=18](https://capsule-render.vercel.app/api?type=waving\&color=0:0F0C29,50:302B63,100:24243E\&height=250\&section=header\&text=Shivani%20Shet\&fontSize=48\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=38\&desc=Full%20Stack%20Developer%20%7C%20Java%20Programmer\&descAlignY=58\&descSize=18)"/>
-\</a> here u added my portffolio link right remove that link
+
+<a href="https://my-portfolio-git-main-s-projects-4b1e1451.vercel.app" target="_blank">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=250&section=header&text=Shivani%20Shet&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20Programmer&descAlignY=58&descSize=18"/>
+</a>
+
 
 
 
