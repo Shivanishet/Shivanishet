@@ -91,12 +91,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Shivani's GitHub Stats](./profile/stats.svg)
-
----
-
 <!-- ==================== QUOTE ==================== -->
 ## 💭 Quote I Live By
 
