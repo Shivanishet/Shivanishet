@@ -83,11 +83,7 @@
 <!-- ==================== STREAK ==================== -->
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <a href="https://github.com/shivanishet" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=shivanishet&theme=radical&hide_border=true&background=0F0C29&stroke=8A63FF&ring=8A63FF&fire=8A63FF&currStreakLabel=8A63FF" alt="GitHub Streak Stats" />
-  </a>
-</p>
+![Shivani's GitHub Streak](./profile/streak.svg)
 
 ---
 
