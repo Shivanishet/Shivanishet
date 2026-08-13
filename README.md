@@ -83,7 +83,11 @@
 <!-- ==================== STREAK ==================== -->
 ## 🔥 GitHub Streak
 
+<div align="center">
+
 ![Shivani's GitHub Streak](./profile/streak.svg)
+
+</div>
 
 ---
 
