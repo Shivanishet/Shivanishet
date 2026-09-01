@@ -100,11 +100,21 @@
 
 ---
 
+<!-- ==================== SNAKE ==================== -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivanishet/Shivanishet/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivanishet/Shivanishet/output/github-contribution-grid-snake.svg">
+    <img alt="snake gif" src="https://raw.githubusercontent.com/Shivanishet/Shivanishet/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
 <!-- ==================== PROFILE VIEWS ==================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivanishet&label=Profile+Views&color=8A63FF&style=for-the-badge"/>
 </p>
 <img width="100%" src="footer.svg"/>
-
-
-![snake gif](https://raw.githubusercontent.com/Shivanishet/Shivanishet/output/github-contribution-grid-snake.svg)
