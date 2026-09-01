@@ -107,4 +107,4 @@
 <img width="100%" src="footer.svg"/>
 
 
-![snake gif](https://github.com/Shivanishet/Shivanishet/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/Shivanishet/Shivanishet/output/github-contribution-grid-snake.svg)
