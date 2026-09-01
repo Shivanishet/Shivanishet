@@ -104,7 +104,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivanishet&label=Profile+Views&color=8A63FF&style=for-the-badge"/>
 </p>
-
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
-
 <img width="100%" src="footer.svg"/>
