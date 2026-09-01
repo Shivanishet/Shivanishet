@@ -105,3 +105,6 @@
   <img src="https://komarev.com/ghpvc/?username=shivanishet&label=Profile+Views&color=8A63FF&style=for-the-badge"/>
 </p>
 <img width="100%" src="footer.svg"/>
+
+
+![snake gif](https://github.com/Shivanishet/Shivanishet/blob/output/github-contribution-grid-snake.gif)
